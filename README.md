@@ -1,2 +1,2 @@
 # iris.js
-A photo gallery library, eventually. 
+A simple photo framework, eventually. 
